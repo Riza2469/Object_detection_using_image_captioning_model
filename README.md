@@ -29,3 +29,7 @@ Follow these steps to get started with the project:
 ```sh
 python main.py
 ```
+
+4. Enjoy Real-Time Object Detection and Image Captioning:
+Launch the application and point your camera towards objects or scenes. The application will provide real-time object detection and generate descriptive captions.
+
